@@ -1,3 +1,7 @@
+# Karatsuba algorithm used to multiply two
+# integers of equal and even lengths
+# Implemented in Python
+# Created by: Henry Dunham
 
 import split_int_in_half as half_int
 import recursive_product
